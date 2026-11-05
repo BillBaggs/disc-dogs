@@ -1,0 +1,10 @@
+These recordings are from BigSoundBank (https://bigsoundbank.com), released there as CC0 (public domain):
+no attribution required, free for any use.
+
+0112.mp3  Barking dog inside      https://bigsoundbank.com/barking-dog-inside-s0112.html
+0098.mp3  Small mewing of a cat   https://bigsoundbank.com/small-mewing-of-a-cat-s0098.html
+0494.mp3  Little meow of a cat    https://bigsoundbank.com/little-meow-of-a-cat-s0494.html
+0815.mp3  Applause about 25-50 people #4   https://bigsoundbank.com/applause-about-25-50-people-4-s0815.html
+
+The game cuts them into single barks and meows when it loads, and plays them at a different pitch for each dog
+and cat; and it cuts the applause into short and long bursts for the crowd.
