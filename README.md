@@ -8,7 +8,7 @@ You never play just one dog. Throw the disc and you shift into whoever catches i
 the disc and always the one who has to decide what happens next. The wind shifts every point too, so a throw that
 was easy a moment ago now has to be aimed into a crosswind.
 
-Play it in the browser: *(itch.io link goes here)*
+**Play it in the browser: https://reedarcade.itch.io/disc-dogs**
 
 ## How to play
 
